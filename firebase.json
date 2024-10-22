@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "public/irra-web",
     "ignore": [
       "firebase.json",
       "**/.*",
