@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/irra-web",
+    "public": "dist/irra-web/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
